@@ -1,0 +1,4 @@
+name: Autobroadcast
+version: '${project.version}'
+main: de.zemux1613.autobroadcast.Autobroadcast
+author: [ Zemux1613 ]
